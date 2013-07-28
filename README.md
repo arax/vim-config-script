@@ -3,7 +3,7 @@ vim-config-script
 
 Bash script that installs vim plugins and adds reasonable settings to .vimrc
 
-Currently are installed these plugins:
+###Currently installs these plugins:
 
 closetag https://github.com/vim-scripts/closetag.vim  
 ctrlp https://github.com/kien/ctrlp.vim  
